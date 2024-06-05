@@ -5,7 +5,7 @@
     <p>Sign in to Archetyp Marketplace</p>
     <h3>Current Archetyp Marketplace URL</h3>
     <p>URL: <a href="http://arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion">arche3pmohqc2fou7flomkw4gyk4tcgrre3qrttec5qpsrihyooxxdqd.onion</a></p>
-    <p>GitHub: <a href="https://github.com/Archetypmarket/link">https://github.com/Archetypmarket/link</a></p>
+    <p>GitHub: <a href="https://archetypmarket.org/">mirror</a></p>
     <h2>Introduction to Archetyp</h2>
     <p>Initially catering solely to the EU, Archetyp Marketplace has broadened its reach globally, mainly focusing on the distribution of narcotics.</p>
     <h3>Marketplace Ranking</h3>
